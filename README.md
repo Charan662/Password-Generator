@@ -6,7 +6,7 @@ Welcome to the Password Generator! This simple Python script aims to help users 
 The main objective of this project is to create a tool that allows users to easily generate passwords that are difficult to guess or crack, thereby enhancing their online security.
 
 ## Features
-- User input for the number of letters, symbols, and numbers.
-- Random selection of characters for each category.
-- Shuffling of the selected characters to ensure randomness.
-- Display of the generated password.
+ - User input for the number of letters, symbols, and numbers.
+ - Random selection of characters for each category.
+ - Shuffling of the selected characters to ensure randomness.
+ - Display of the generated password.
